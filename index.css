@@ -1,0 +1,32 @@
+body {
+	background-color: #B2E9FD;
+}
+body{
+	background-color: darkblue;
+}
+.header h1 {
+	font-family: cursive;
+	color: white
+}
+
+.header p {
+	font-size: 40px;
+	font-family: cursive;
+	color: white
+}
+
+.results {
+	margin-top: 20px;
+}
+
+.movies-container, .watchlist-container {
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+}
+.display-1{
+	color: white;
+}
+#return{
+	color: white;
+}
